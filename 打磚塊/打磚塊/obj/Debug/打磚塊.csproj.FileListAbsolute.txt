@@ -1,0 +1,10 @@
+C:\Users\azsx2\Desktop\打磚塊\打磚塊\bin\Debug\打磚塊.exe.config
+C:\Users\azsx2\Desktop\打磚塊\打磚塊\bin\Debug\打磚塊.exe
+C:\Users\azsx2\Desktop\打磚塊\打磚塊\bin\Debug\打磚塊.pdb
+C:\Users\azsx2\Desktop\打磚塊\打磚塊\obj\Debug\打磚塊.csprojAssemblyReference.cache
+C:\Users\azsx2\Desktop\打磚塊\打磚塊\obj\Debug\打磚塊.Form1.resources
+C:\Users\azsx2\Desktop\打磚塊\打磚塊\obj\Debug\打磚塊.Properties.Resources.resources
+C:\Users\azsx2\Desktop\打磚塊\打磚塊\obj\Debug\打磚塊.csproj.GenerateResource.cache
+C:\Users\azsx2\Desktop\打磚塊\打磚塊\obj\Debug\打磚塊.csproj.CoreCompileInputs.cache
+C:\Users\azsx2\Desktop\打磚塊\打磚塊\obj\Debug\打磚塊.exe
+C:\Users\azsx2\Desktop\打磚塊\打磚塊\obj\Debug\打磚塊.pdb
